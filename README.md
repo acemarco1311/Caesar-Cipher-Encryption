@@ -5,3 +5,6 @@ Python: Simplest encryption/decryption technique, Caesar Cipher's encryption
 This encryption algorithm get an offset as a key for encryption then:
     encrypted_character =  original_character + offset 
 In the ASCII 127. 
+
+Author: LE Nguyen Thanh Toan
+Email: acemarco9@gmail.com
